@@ -156,7 +156,7 @@
   <div class="SocialMedia">
     <div class="SocialMediaWrap">
       <a href="#" class="SocialLogo">SMVITM</a>
-      <p class="WebsiteRights">SMVITM BANTAKAL © 2022</p>
+      <p class="WebsiteRights">SMVITM BANTAKAL © 2023</p>
       <div class="SocialIcons">
         <a href="https://www.facebook.com/officialsmvitm" class="SocialIconLink"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
         <a href="https://instagram.com/smvitm.sode?igshid=OGQ5ZDc2ODk2ZA==" class="SocialIconLink"><i class="fa fa-instagram" aria-hidden="true"></i></a>
