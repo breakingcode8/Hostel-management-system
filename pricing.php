@@ -46,7 +46,7 @@
     <img style="height:150px; width:150px;" src="images/1.png" alt="">
     </div>
 
-    <li class="grey">1Lakh/ year</li>
+    <li class="grey">30k/ year</li>
     <li>Best Internet</li>
     <li>Central AC block</li>
     <li>Best Mess</li>
@@ -63,7 +63,7 @@
 <img style="height:150px; width:150px;" src="images/2.png" alt="">
 </div>
 
-<li class="grey">85 Thousand/ year</li>
+<li class="grey">3k5/ year</li>
 <li>AC block</li>
 <li>Common reading room</li>
 <li>Indoor games</li>
@@ -79,7 +79,7 @@
 <img style="height:150px; width:150px;" src="images/3.png" alt="">
 </div>
 
-<li class="grey">70 Thousand/ year</li>
+<li class="grey">40k/ year</li>
 <li>Ac block</li>
 <li>Gym</li>
 <li>Swimming pool</li>
